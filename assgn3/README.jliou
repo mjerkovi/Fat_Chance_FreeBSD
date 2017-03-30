@@ -1,0 +1,16 @@
+Nikola Panayotov (npanayot@ucsc.edu)
+
+Marko Jerkovic (mjerkovi@ucsc.edu)
+
+Edwin Ramirez (edalrami@ucsc.edu)
+
+Jeremiah Liou  (jliou@ucsc.edu)
+
+CONTRIBUTION:
+I helped with understanding the code and deciding where certain code needed to be implemented. Afterward, I helped document what had been changed in the DESIGN document. And later, help with understanding what happens after FAT CHANCE algorithm was implemented. 
+
+Nikola: In this assignment, Nikola wrote all the changes in the kernel with ideas that came up. He also took time reading the FreeBSD book and understanding how the paging was working originally. After implementing FAT CHANCE, he also helped with analyzing what was the difference with the paging between the two algorithms. 
+
+Marko: In this assignment, Marko also took time to understand how the paging algorithm worked in FreeBSD. And after reading, took time understanding the code and contributing to where to change code to implement FAT CHANCE. He also helped with analyzing what was the difference between both of the algorithms.
+
+Edwin: In this assignment, Edwin helped the most by producing the graphs using matlab. After producing these graphs, he also helped with analyzing what was the difference between the two algorithms. He also helped document what was happening in the DESIGN document. After putting down what happened, documenting what happened was easier.

@@ -1,0 +1,7 @@
+My contribution: I helped with the design of the Fat Chance algorithm by reading and understanding the default algorithm, and then deciding where new code needed to be added and what code needed to be added/modified. I also added documentation to the modified code. I wrote a script to run stress repeatedly and log the start and end times of the test, after which I downloaded the log file using filezilla and cleaned up the data so it could be processed by Edwin's matlab code. I helped create the design document by analyzing the graphs of the paging algorithms under stress. I also transcribed our document from google docs to latex.
+
+Jeremiah Liou: Helped figure out where to log the pertinent information, and also helped with the design and implementation of fat chance. Helped create the design document by explaining our modifations and also did part of the analysis on the boot up data.
+
+Nikola Panayotov: Typed all of the code for logging and implementing the fat chance algorithm on his computer. Helped in deciding where to log the necessary paging information and helped in the design/implemention of fat chance. Helped with creation of design document by describing the modifications and also with the analysis of the paging activity during boot. 
+
+Edwin Ramirez: Helped with the design and implementation of fat chance. Wrote lengthy matlab scripts which extracted and plotted information from all of the logging that the scanner was doing. Modified the the logging data so the scripts could easily extract the numbers from it. 

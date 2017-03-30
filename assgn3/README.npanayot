@@ -1,0 +1,16 @@
+Nikola Panayotov (npanayot@ucsc.edu) - Team Leader
+Marko Jerkovic (mjerkovi@ucsc.edu)
+Edwin Ramirez (edalrami@ucsc.edu)
+Jeremiah Liou  (jliou@ucsc.edu)
+
+CONTRIBUTIONS:
+
+Much like assignment 2, we worked together on the same task, to ensure that we were all on the same page(haha) while working.
+
+For this assignment, I worked on determining where to use log() to log the desired information, and also worked on implementing the fat chance algorithm. I also contributed to the conclusions.pdf, specifically on the analysis of the boot-up.
+
+Jeremiah: Jeremiah wrote most of the design document, wrote the README, and worked on the fat chance algorithm. He worked on the conclusions.pdf, analyzing the boot-up behavior.
+
+Marko: Marko worked on logging information, implementing the fat chance paging algorithm, and formatted the design and conclusions document to look neater. He also worked on the pageout analysis for when the system was stressed.
+
+Edwin: Edwin worked on implementing the fat chance algorithm, and also created MATLAB scripts to visualize the data we obtained from logging. Edwin also worked on analyzing the system's behavior when stress was called.
